@@ -1,4 +1,4 @@
-small_diameter = 19.5;
+ssmall_diameter = 19.5;
 large_diameter = 38.5;
 large_length = 15.5;
 slope_length = 10;
