@@ -1,0 +1,20 @@
+{
+  "thing": {
+    "name": "Filament Spool Spindle",
+    "category": "3D Printer Accessories",
+    "tags": [
+      "3D_printing",
+      "filanment"
+    ],
+    "description": "# Filament Spool Spindle\n\nA simple spimdle to hold filament spools.\n\nDesigned to fit on the [Prusa i3 MK Filament Spool Holder ClipOn](https://www.printables.com/model/81806-prusa-i3-mk-filament-spool-holder-clipon/files).",
+    "instructions": "Print and enjoy",
+    "is_wip": false,
+    "license": "gpl3",
+    "id": 6482802
+  },
+  "files": [
+    "filament-spool-spindle.scad",
+    "filament-spool-spindle.stl"
+  ],
+  "images": []
+}
