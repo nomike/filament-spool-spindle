@@ -16,7 +16,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
-ssmall_diameter = 19.5;
+small_diameter = 19.5;
 large_diameter = 38.5;
 large_length = 15.5;
 slope_length = 10;
