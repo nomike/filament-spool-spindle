@@ -1,13 +1,11 @@
-# Filament Spool Spindle
-
-A simple spimdle to hold filament spools.
+A simple parametric spindle to hold filament spools.
 
 Designed to fit on the [Prusa i3 MK Filament Spool Holder ClipOn](https://www.printables.com/model/81806-prusa-i3-mk-filament-spool-holder-clipon/files).
 
-## Thingiverse
+#### Thingiverse
 
-https://www.thingiverse.com/thing:6482802
+<https://www.thingiverse.com/thing:6482802>
 
-## GitHub
+#### GitHub
 
-https://github.com/nomike/filament-spool-spindle
+<https://github.com/nomike/filament-spool-spindle>
