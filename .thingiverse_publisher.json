@@ -12,7 +12,11 @@
   },
   "files": {
     "filament-spool-spindle.scad": {},
-    "filament-spool-spindle.stl": {}
+    "output/filament-spool-spindle.stl": {
+      "id": 14292773,
+      "name": "filament-spool-spindle.stl",
+      "url": "https://www.thingiverse.com/download:14292773"
+    }
   },
   "images": {}
 }
