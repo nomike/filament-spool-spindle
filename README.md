@@ -9,10 +9,6 @@ This design was done in OpenSCAD and can be customized.
 Clone the repository using `git clone --recursive https://github.com/nomike/2D-Benchy`.
 Be sure to use a [recent version of OpenSCAD](https://openscad.org/downloads.html#snapshots).
 
-#### Printables
-
-<>
-
 #### Thingiverse
 
 <https://www.thingiverse.com/thing:6482802>
